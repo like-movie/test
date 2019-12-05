@@ -1,0 +1,7 @@
+
+
+git config --global user.email "iretrieval@naver.com"
+git config --global user.name "like-movie"
+git config -m 'test'
+
+git push -u origin master
